@@ -1,4 +1,4 @@
-Welcome to your FinTrack!
+Welcome to FinTrack!
 This is a modern web application built with a fast, responsive frontend stack using React, TypeScript, Vite, Tailwind CSS, and shadcn-ui.
 
 🧩 Overview
@@ -31,4 +31,5 @@ Animations          framer-motion
 Made by:
 Chandu Veeramalla
 Akash Ravula
+
 Krishna Vamshi Nelluri
